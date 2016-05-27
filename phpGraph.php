@@ -118,7 +118,7 @@ class phpGraph {
 
 	private static $instance;
 	
-	//protected $colors = array();
+	protected $colors = array();
 
 	/**
 	 * Constructor
